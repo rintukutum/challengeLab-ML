@@ -16,3 +16,7 @@ Challenge Lab : ML in public health and genomics
 # About challenge
 To build ML/DL models to predict gestational age (GA) from temporal high-dimentional
 datasets (immunome, transcriptome, microbiome, proteome and metabolome).
+
+# About data
+
+<img src="figures/figure-01.png" title="Dr Bhavana Prasher" width="200" />
