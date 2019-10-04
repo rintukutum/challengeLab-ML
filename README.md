@@ -19,4 +19,4 @@ datasets (immunome, transcriptome, microbiome, proteome and metabolome).
 
 # About data
 
-<img src="figures/figure-01.png" title="Dr Bhavana Prasher" width="200" />
+<img src="figures/figure-01.png" title="Dr Bhavana Prasher" width="500" />
