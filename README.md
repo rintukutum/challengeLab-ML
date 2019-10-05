@@ -17,6 +17,18 @@ Challenge Lab : ML in public health and genomics
 To build ML/DL models to predict gestational age (GA) from temporal high-dimentional
 datasets (immunome, transcriptome, microbiome, proteome and metabolome).
 
+<img src="figures/figure-01.png" title="Dr Bhavana Prasher" width="500" />
+
 # About data
 
-<img src="figures/figure-01.png" title="Dr Bhavana Prasher" width="500" />
+- [Gestational Age](https://www.ncbi.nlm.nih.gov/pubmed/24764329)
+- [Cell-free RNA transcriptome]
+  Cell-free RNA (CfRNA) was extracted from 1 mL of plasma using Plasma/SerumCirculating RNA and Exosomal Purification kit (Norgen, cat 42800) followingmanufacture  instruction.   The  residue  of  DNA  was  digested  using  Baseline-ZERO DNase (Epicentre) and then cleaned by RNA Clean and Concentrator-5kit (Zymo).  RNA was eluted to 12 ul in elution buffer.One half of the eluted RNA was used for sequencing library preparation us-ing SMARTer Stranded Total RNAseq-Pico Input Mammalian kit (Clontech)according to the manufacturer’s manual.  Short read sequencing was performedusing the Illumina NextSeq (2×75 bp) platform to the depth of more than 10million reads per samples.  The sequencing reads were mapped to human refer-ence genome (hg38) using STAR aligner.  Duplicates were removed by Picardand then unique reads were quantified using htseq-count.
+- [Proteome]
+  Blood was collected into EDTA tubes, put on ice, centrifuged within 60 min-utes, and plasma was stored at−80◦C until further processing.  A first analysiswas performed in the Human Immune Monitoring Center (HIMC) at StanfordUniversity using a standard,  human 62-plex kit from eBiosciences/Affymetrix(San  Diego,  CA)  according  to  the  manufacturer’s  recommendations.  
+- [Microbiome]
+  Whole  genomic  DNA  was  extracted  from  each  vaginal  swab  by  means  ofthe PowerSoil DNA isolation kit (MO BIO Laboratories) according to the man-ufacturer’s  protocol
+- [Immunome]
+  Whole blood samples were stimulated for 15 min with either LPS, IFNα, a cock-tail containing IL-2 and IL-6, or left unstimulated.  
+- [Untargeted Metabolome]
+  Metabolites were extracted from plasma and analyzed using a broad coverageuntargeted  metabolomics  platform  as  described  [previously](https://www.ncbi.nlm.nih.gov/pubmed/25787789)  
