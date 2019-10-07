@@ -1,5 +1,8 @@
 # challengeLab-ML
-Challenge Lab : ML in public health and genomics
+Challenge Lab : ML in public health and genomics.
+
+In this assignment, students need to predict "Gestational Age" of women based on the 7 multi-omics high-dimensional datasets as illustrated below. Train data consist of 14 women. Students will be various machine learning or deep learning (regression) models to estimate/predict the Gestational Age of 3 women using multi-omics datasets. We will assess the performance of the students based on 1) Novelty of the algorithm (50) and 2) MAE [Mean Absolute Error] (50).
+
 # Contact
 email id : rintu.kutum@igib.in
 contact number: 7838369344
