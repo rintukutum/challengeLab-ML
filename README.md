@@ -1,6 +1,8 @@
 # challengeLab-ML
 Challenge Lab : ML in public health and genomics
-
+# Contact
+email id : rintu.kutum@igib.in
+contact number: 7838369344
 # Theme
 - Expose students to challenging problems in public health.
 - Allow students to team-up and solve these problems via machine learning and deep learning models.
