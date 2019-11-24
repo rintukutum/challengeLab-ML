@@ -3,6 +3,7 @@ Challenge Lab : ML in public health and genomics.
 
 In this assignment, students need to predict "Gestational Age" of women based on the 7 multi-omics high-dimensional datasets as illustrated below. Train data consist of 14 women. Students will be using various machine learning or deep learning (regression) models to predict the Gestational Age of 3 women using multi-omics datasets. We will assess the performance of the students based on 1) Novelty of the algorithm (50) and 2) MAE [Mean Absolute Error] (50).
 
+
 # Original article
 [Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy](https://academic.oup.com/bioinformatics/article/35/1/95/5047759/)
 # Contact
@@ -24,8 +25,19 @@ contact number: 7838369344
 To build ML/DL models to predict gestational age (GA) from temporal high-dimentional
 datasets (immunome, transcriptome, microbiome, proteome and metabolome).
 
-<img src="figures/figure-01.png" title="Dr Bhavana Prasher" width="500" />
+<img src="figures/figure-01.png" title="Challenge" width="500" />
 
+We have formulated the challenge into 3 sub-challeneges,
+Subchallenge 01:
+- Predict GA using Immunome, SerumLuminex, plasmaLuminex and plasmaSomalogic data.
+Subchallenge 02:
+- Predict GA using cell-free RNA, metabolome and immunome data
+Subchallenge 03:
+- Predict GA using all the datasets.
+
+# Timelines
+
+<img src="figures/figure-02-150dpi.png" title="Challenge" width="500" />
 # About data
 
 - [Gestational Age](https://www.ncbi.nlm.nih.gov/pubmed/24764329)
