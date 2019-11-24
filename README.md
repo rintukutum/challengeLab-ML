@@ -5,20 +5,14 @@ In this assignment, students need to predict "Gestational Age" of women based on
 
 # Original article
 [Multiomics modeling of the immunome, transcriptome, microbiome, proteome and metabolome adaptations during human pregnancy](https://academic.oup.com/bioinformatics/article/35/1/95/5047759/)
+
 # Contact
 email id : rintu.kutum@igib.in
 contact number: 7838369344
+
 # Theme
 - Expose students to challenging problems in public health.
 - Allow students to team-up and solve these problems via machine learning and deep learning models.
-
-# About
-- [[Preterm birth]](https://www.who.int/news-room/fact-sheets/detail/preterm-birth)
-- [[Preterm birth (premature birth)]](https://www.nhp.gov.in/disease/reproductive-system/female-gynaecological-diseases-/preterm-birth)
-- [[Extremely Preterm Birth]](https://www.acog.org/Patients/FAQs/Extremely-Preterm-Birth)
-- [[Setting research priorities to improve global newborn health and prevent stillbirths by 2025]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4576458/pdf/jogh-06-010508.pdf)
-- [[Preterm birth: Case definition & guidelines for data collection, analysis,and presentation of immunisation safety data]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5139808/pdf/main.pdf)
-
 
 # About challenge
 To build ML/DL models to predict gestational age (GA) from temporal high-dimentional
@@ -26,7 +20,7 @@ datasets (immunome, transcriptome, microbiome, proteome and metabolome).
 
 <img src="figures/figure-01.png" title="Challenge" width="500" />
 
-We have formulated the challenge into 3 sub-challeneges,
+We have formulated the challenge into 3 sub-challeneges as mentioned below,
 
 ### Subchallenge 01:
 - Predict GA using [Immunome](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/immunome.csv), [SerumLuminex](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/SerumLuminex.csv), [plasmaLuminex](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/plasmaLuminex.csv) and [plasmaSomalogic](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/plasmaSomalogic.csv) data.
@@ -40,6 +34,15 @@ We have formulated the challenge into 3 sub-challeneges,
 # Timelines
 
 <img src="figures/figure-02-150dpi.png" title="Challenge" width="500" />
+
+
+# About preterm birth
+
+- [[Preterm birth]](https://www.who.int/news-room/fact-sheets/detail/preterm-birth)
+- [[Preterm birth (premature birth)]](https://www.nhp.gov.in/disease/reproductive-system/female-gynaecological-diseases-/preterm-birth)
+- [[Extremely Preterm Birth]](https://www.acog.org/Patients/FAQs/Extremely-Preterm-Birth)
+- [[Setting research priorities to improve global newborn health and prevent stillbirths by 2025]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4576458/pdf/jogh-06-010508.pdf)
+- [[Preterm birth: Case definition & guidelines for data collection, analysis,and presentation of immunisation safety data]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5139808/pdf/main.pdf)
 
 
 # About data
