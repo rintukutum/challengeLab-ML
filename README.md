@@ -22,13 +22,13 @@ datasets (immunome, transcriptome, microbiome, proteome and metabolome).
 
 We have formulated the challenge into 3 sub-challenges as mentioned below,
 
-### Subchallenge 01:
+### Sub Challenge 01:
 - Predict GA using [Immunome](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/immunome.csv), [SerumLuminex](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/SerumLuminex.csv), [plasmaLuminex](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/plasmaLuminex.csv) and [plasmaSomalogic](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/plasmaSomalogic.csv) data.
 
-### Subchallenge 02:
+### Sub Challenge 02:
 - Predict GA using [cell-free RNA](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/cfRNA.csv), [metabolome](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/metabolome.csv) and [microbiome](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/microbiome.csv) data.
 
-### Subchallenge 03:
+### Sub Challenge 03:
 - Predict GA using all the datasets.
 
 ### TRAIN & TEST SET:
