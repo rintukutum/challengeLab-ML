@@ -31,6 +31,10 @@ We have formulated the challenge into 3 sub-challeneges as mentioned below,
 ### Subchallenge 03:
 - Predict GA using all the datasets.
 
+### TRAIN & TEST SET:
+The details about gestational age (GA) along with train and test set is available in
+[challenge-meta-information](https://github.com/rintukutum/challengeLab-ML/blob/master/data/challenge-meta-information.csv)
+
 # Timelines
 
 <img src="figures/figure-02-150dpi.png" title="Challenge" width="500" />
