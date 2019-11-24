@@ -27,16 +27,21 @@ datasets (immunome, transcriptome, microbiome, proteome and metabolome).
 <img src="figures/figure-01.png" title="Challenge" width="500" />
 
 We have formulated the challenge into 3 sub-challeneges,
+
 Subchallenge 01:
 - Predict GA using Immunome, SerumLuminex, plasmaLuminex and plasmaSomalogic data.
+
 Subchallenge 02:
 - Predict GA using cell-free RNA, metabolome and immunome data
+
 Subchallenge 03:
 - Predict GA using all the datasets.
 
 # Timelines
 
 <img src="figures/figure-02-150dpi.png" title="Challenge" width="500" />
+
+
 # About data
 
 - [Gestational Age](https://www.ncbi.nlm.nih.gov/pubmed/24764329)
