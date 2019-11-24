@@ -42,7 +42,9 @@ The details about gestational age (GA) along with train and test set is availabl
 ### Submission format
 
 File naming (format)
+
 [GROUP-X--SC1--MLmethod.csv](https://github.com/rintukutum/challengeLab-ML/blob/master/data/submission-format.csv)
+
 SC1 (Sub Challenge 01)
 
 
