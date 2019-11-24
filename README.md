@@ -20,7 +20,7 @@ datasets (immunome, transcriptome, microbiome, proteome and metabolome).
 
 <img src="figures/figure-01.png" title="Challenge" width="500" />
 
-We have formulated the challenge into 3 sub-challeneges as mentioned below,
+We have formulated the challenge into 3 sub-challenges as mentioned below,
 
 ### Subchallenge 01:
 - Predict GA using [Immunome](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/immunome.csv), [SerumLuminex](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/SerumLuminex.csv), [plasmaLuminex](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/plasmaLuminex.csv) and [plasmaSomalogic](https://github.com/rintukutum/challengeLab-ML/blob/master/data/train/plasmaSomalogic.csv) data.
